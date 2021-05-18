@@ -1,0 +1,3907 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.854258,
+                            10.964586
+                        ],
+                        [
+                            79.852594,
+                            10.923378
+                        ],
+                        [
+                            79.830173,
+                            10.925458
+                        ],
+                        [
+                            79.811811,
+                            10.937041
+                        ],
+                        [
+                            79.807291,
+                            10.946142
+                        ],
+                        [
+                            79.805289,
+                            10.95014
+                        ],
+                        [
+                            79.811404,
+                            10.950838
+                        ],
+                        [
+                            79.810538,
+                            10.962699
+                        ],
+                        [
+                            79.854258,
+                            10.964586
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "KARAIKAL",
+                "AC_NAME": "KARAIKAL NORTH",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 34364,
+                "VOTERS": 28324,
+                "TURNOUT": 82.4,
+                "MARGIN": 135.0,
+                "MARGIN_PERCENTAGE": 0.5,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "P.R.N. THIRUMURUGAN",
+                "CANDIDATE_RANK2": "A.V. SUBRAMANIAN",
+                "CANDIDATE_RANK3": "ANUSUYA",
+                "VOTES_RANK1": 12704.0,
+                "VOTES_RANK1_PERCENTAGE": 44,
+                "VOTES_RANK2": 12569.0,
+                "VOTES_RANK2_PERCENTAGE": 44.38,
+                "VOTES_RANK3": 1214,
+                "VOTES_RANK3_PERCENTAGE": 4.29
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.852594,
+                            10.923378
+                        ],
+                        [
+                            79.853178,
+                            10.915204
+                        ],
+                        [
+                            79.846349,
+                            10.91493
+                        ],
+                        [
+                            79.842474,
+                            10.908224
+                        ],
+                        [
+                            79.83433,
+                            10.908101
+                        ],
+                        [
+                            79.83035,
+                            10.902142
+                        ],
+                        [
+                            79.807955,
+                            10.901533
+                        ],
+                        [
+                            79.804297,
+                            10.896949
+                        ],
+                        [
+                            79.806582,
+                            10.910833
+                        ],
+                        [
+                            79.803676,
+                            10.912115
+                        ],
+                        [
+                            79.807474,
+                            10.9268
+                        ],
+                        [
+                            79.804618,
+                            10.929256
+                        ],
+                        [
+                            79.810093,
+                            10.932641
+                        ],
+                        [
+                            79.80695,
+                            10.937488
+                        ],
+                        [
+                            79.811811,
+                            10.937041
+                        ],
+                        [
+                            79.830173,
+                            10.925458
+                        ],
+                        [
+                            79.852594,
+                            10.923378
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "KARAIKAL",
+                "AC_NAME": "KARAIKAL SOUTH",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 30638,
+                "VOTERS": 24456,
+                "TURNOUT": 79.8,
+                "MARGIN": 12034.0,
+                "MARGIN_PERCENTAGE": 49.2,
+                "PARTY_RANK1": "DMK",
+                "PARTY_RANK2": "AIADMK",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "A.M.H. NAZIM",
+                "CANDIDATE_RANK2": "K.A.U.ASSANA MARECAR",
+                "CANDIDATE_RANK3": "S MARIE ANTHUVAN",
+                "VOTES_RANK1": 17401.0,
+                "VOTES_RANK1_PERCENTAGE": 71,
+                "VOTES_RANK2": 5367.0,
+                "VOTES_RANK2_PERCENTAGE": 21.95,
+                "VOTES_RANK3": 699,
+                "VOTES_RANK3_PERCENTAGE": 2.86
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.748107,
+                            10.996376
+                        ],
+                        [
+                            79.746718,
+                            11.00263
+                        ],
+                        [
+                            79.755748,
+                            11.003793
+                        ],
+                        [
+                            79.766611,
+                            10.997389
+                        ],
+                        [
+                            79.785997,
+                            10.997428
+                        ],
+                        [
+                            79.788977,
+                            10.991962
+                        ],
+                        [
+                            79.786333,
+                            10.989665
+                        ],
+                        [
+                            79.797708,
+                            10.982551
+                        ],
+                        [
+                            79.80404,
+                            10.987142
+                        ],
+                        [
+                            79.804196,
+                            10.997693
+                        ],
+                        [
+                            79.813094,
+                            10.999208
+                        ],
+                        [
+                            79.815165,
+                            11.00377
+                        ],
+                        [
+                            79.820601,
+                            10.998215
+                        ],
+                        [
+                            79.840197,
+                            11.002116
+                        ],
+                        [
+                            79.839363,
+                            10.995897
+                        ],
+                        [
+                            79.851184,
+                            10.994342
+                        ],
+                        [
+                            79.854361,
+                            10.983317
+                        ],
+                        [
+                            79.854258,
+                            10.964586
+                        ],
+                        [
+                            79.810538,
+                            10.962699
+                        ],
+                        [
+                            79.811404,
+                            10.950838
+                        ],
+                        [
+                            79.805289,
+                            10.95014
+                        ],
+                        [
+                            79.807291,
+                            10.946142
+                        ],
+                        [
+                            79.78517,
+                            10.951875
+                        ],
+                        [
+                            79.782955,
+                            10.965357
+                        ],
+                        [
+                            79.7627,
+                            10.962135
+                        ],
+                        [
+                            79.759368,
+                            10.972246
+                        ],
+                        [
+                            79.754697,
+                            10.971939
+                        ],
+                        [
+                            79.752769,
+                            10.976946
+                        ],
+                        [
+                            79.758487,
+                            10.983544
+                        ],
+                        [
+                            79.752821,
+                            10.982925
+                        ],
+                        [
+                            79.752532,
+                            10.988074
+                        ],
+                        [
+                            79.747287,
+                            10.988357
+                        ],
+                        [
+                            79.748107,
+                            10.996376
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "KARAIKAL",
+                "AC_NAME": "NEDUNGADU",
+                "YEAR": 2021,
+                "RES": "SC",
+                "ELECTORS": 30608,
+                "VOTERS": 26798,
+                "TURNOUT": 87.6,
+                "MARGIN": 2214.0,
+                "MARGIN_PERCENTAGE": 8.3,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "IND",
+                "CANDIDATE_RANK1": "CHANDIRA PRIYANGA",
+                "CANDIDATE_RANK2": "A. MARIMUTHU",
+                "CANDIDATE_RANK3": "DR. V. VIGNESWARAN",
+                "VOTES_RANK1": 10774.0,
+                "VOTES_RANK1_PERCENTAGE": 40,
+                "VOTES_RANK2": 8560.0,
+                "VOTES_RANK2_PERCENTAGE": 31.94,
+                "VOTES_RANK3": 5606,
+                "VOTES_RANK3_PERCENTAGE": 20.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.831768,
+                            11.916782
+                        ],
+                        [
+                            79.824795,
+                            11.889964
+                        ],
+                        [
+                            79.79649,
+                            11.894865
+                        ],
+                        [
+                            79.79638,
+                            11.899901
+                        ],
+                        [
+                            79.790294,
+                            11.897185
+                        ],
+                        [
+                            79.790094,
+                            11.915159
+                        ],
+                        [
+                            79.798066,
+                            11.915345
+                        ],
+                        [
+                            79.797767,
+                            11.908844
+                        ],
+                        [
+                            79.807067,
+                            11.907943
+                        ],
+                        [
+                            79.81333,
+                            11.920009
+                        ],
+                        [
+                            79.831768,
+                            11.916782
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "ARIANKUPPAM",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 37383,
+                "VOTERS": 32874,
+                "TURNOUT": 87.9,
+                "MARGIN": 6418.0,
+                "MARGIN_PERCENTAGE": 19.5,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "R. BASKAR @ DATCHANAMOURTTY",
+                "CANDIDATE_RANK2": "T. DJEAMOURTHY",
+                "CANDIDATE_RANK3": "SUNDARAVADIVELU",
+                "VOTES_RANK1": 17858.0,
+                "VOTES_RANK1_PERCENTAGE": 54,
+                "VOTES_RANK2": 11440.0,
+                "VOTES_RANK2_PERCENTAGE": 34.8,
+                "VOTES_RANK3": 1094,
+                "VOTES_RANK3_PERCENTAGE": 3.33
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.803229,
+                            11.953217
+                        ],
+                        [
+                            79.805428,
+                            11.949185
+                        ],
+                        [
+                            79.797997,
+                            11.939093
+                        ],
+                        [
+                            79.797415,
+                            11.939414
+                        ],
+                        [
+                            79.79502,
+                            11.946942
+                        ],
+                        [
+                            79.789107,
+                            11.950072
+                        ],
+                        [
+                            79.784699,
+                            11.954773
+                        ],
+                        [
+                            79.785189,
+                            11.936525
+                        ],
+                        [
+                            79.770505,
+                            11.935751
+                        ],
+                        [
+                            79.769716,
+                            11.943996
+                        ],
+                        [
+                            79.784656,
+                            11.959906
+                        ],
+                        [
+                            79.803229,
+                            11.953217
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "INDIRA NAGAR",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 34520,
+                "VOTERS": 29212,
+                "TURNOUT": 84.6,
+                "MARGIN": 18531.0,
+                "MARGIN_PERCENTAGE": 63.4,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "V. AROUMOUGAME @ AKD",
+                "CANDIDATE_RANK2": "M. KANNAN",
+                "CANDIDATE_RANK3": "T. DEVIKA",
+                "VOTES_RANK1": 21841.0,
+                "VOTES_RANK1_PERCENTAGE": 74,
+                "VOTES_RANK2": 3310.0,
+                "VOTES_RANK2_PERCENTAGE": 11.33,
+                "VOTES_RANK3": 1774,
+                "VOTES_RANK3_PERCENTAGE": 6.07
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.828371,
+                            11.958715
+                        ],
+                        [
+                            79.829928,
+                            11.957657
+                        ],
+                        [
+                            79.824683,
+                            11.939505
+                        ],
+                        [
+                            79.820731,
+                            11.934745
+                        ],
+                        [
+                            79.817657,
+                            11.934449
+                        ],
+                        [
+                            79.807925,
+                            11.938576
+                        ],
+                        [
+                            79.817165,
+                            11.94287
+                        ],
+                        [
+                            79.816195,
+                            11.94915
+                        ],
+                        [
+                            79.823877,
+                            11.957557
+                        ],
+                        [
+                            79.828371,
+                            11.958715
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "KAMARAJ NAGAR",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 35324,
+                "VOTERS": 29741,
+                "TURNOUT": 84.2,
+                "MARGIN": 7229.0,
+                "MARGIN_PERCENTAGE": 24.3,
+                "PARTY_RANK1": "BJP",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "A. JOHNKUMAR",
+                "CANDIDATE_RANK2": "M.O.H.F. SHAJAHAN",
+                "CANDIDATE_RANK3": "N. SHARMILA BEGUM",
+                "VOTES_RANK1": 16687.0,
+                "VOTES_RANK1_PERCENTAGE": 56,
+                "VOTES_RANK2": 9458.0,
+                "VOTES_RANK2_PERCENTAGE": 31.8,
+                "VOTES_RANK3": 1982,
+                "VOTES_RANK3_PERCENTAGE": 6.66
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.805285,
+                            11.963633
+                        ],
+                        [
+                            79.816389,
+                            11.958565
+                        ],
+                        [
+                            79.816293,
+                            11.968945
+                        ],
+                        [
+                            79.823877,
+                            11.957557
+                        ],
+                        [
+                            79.816195,
+                            11.94915
+                        ],
+                        [
+                            79.815172,
+                            11.956224
+                        ],
+                        [
+                            79.810225,
+                            11.956227
+                        ],
+                        [
+                            79.80549,
+                            11.952868
+                        ],
+                        [
+                            79.807324,
+                            11.946322
+                        ],
+                        [
+                            79.805428,
+                            11.949185
+                        ],
+                        [
+                            79.803229,
+                            11.953217
+                        ],
+                        [
+                            79.805285,
+                            11.963633
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "LAWSPET",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 31253,
+                "VOTERS": 26245,
+                "TURNOUT": 84.0,
+                "MARGIN": 5701.0,
+                "MARGIN_PERCENTAGE": 21.7,
+                "PARTY_RANK1": "INC",
+                "PARTY_RANK2": "BJP",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "M. VAITHIANATHAN",
+                "CANDIDATE_RANK2": "V. SAMINATHAN",
+                "CANDIDATE_RANK3": "NIRMAL SINGH",
+                "VOTES_RANK1": 14592.0,
+                "VOTES_RANK1_PERCENTAGE": 55,
+                "VOTES_RANK2": 8891.0,
+                "VOTES_RANK2_PERCENTAGE": 33.88,
+                "VOTES_RANK3": 1168,
+                "VOTES_RANK3_PERCENTAGE": 4.45
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.824795,
+                            11.889964
+                        ],
+                        [
+                            79.807709,
+                            11.836402
+                        ],
+                        [
+                            79.807677,
+                            11.846776
+                        ],
+                        [
+                            79.800605,
+                            11.855314
+                        ],
+                        [
+                            79.781669,
+                            11.855812
+                        ],
+                        [
+                            79.775813,
+                            11.838458
+                        ],
+                        [
+                            79.766092,
+                            11.840591
+                        ],
+                        [
+                            79.762105,
+                            11.848439
+                        ],
+                        [
+                            79.770812,
+                            11.86137
+                        ],
+                        [
+                            79.770023,
+                            11.874594
+                        ],
+                        [
+                            79.772666,
+                            11.875824
+                        ],
+                        [
+                            79.779608,
+                            11.877958
+                        ],
+                        [
+                            79.778379,
+                            11.863222
+                        ],
+                        [
+                            79.785063,
+                            11.862958
+                        ],
+                        [
+                            79.79649,
+                            11.894865
+                        ],
+                        [
+                            79.824795,
+                            11.889964
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "MANAVELY",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 33064,
+                "VOTERS": 29936,
+                "TURNOUT": 90.5,
+                "MARGIN": 8132.0,
+                "MARGIN_PERCENTAGE": 27.2,
+                "PARTY_RANK1": "BJP",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "EMBALAM SELVAM @ R.SELVAM",
+                "CANDIDATE_RANK2": "R. K. R. ANANTHARAMAN",
+                "CANDIDATE_RANK3": "M S ELANGOVAN",
+                "VOTES_RANK1": 17225.0,
+                "VOTES_RANK1_PERCENTAGE": 57,
+                "VOTES_RANK2": 9093.0,
+                "VOTES_RANK2_PERCENTAGE": 30.37,
+                "VOTES_RANK3": 1555,
+                "VOTES_RANK3_PERCENTAGE": 5.19
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.816341,
+                            11.925159
+                        ],
+                        [
+                            79.81333,
+                            11.920009
+                        ],
+                        [
+                            79.807067,
+                            11.907943
+                        ],
+                        [
+                            79.797767,
+                            11.908844
+                        ],
+                        [
+                            79.798066,
+                            11.915345
+                        ],
+                        [
+                            79.790094,
+                            11.915159
+                        ],
+                        [
+                            79.790051,
+                            11.91856
+                        ],
+                        [
+                            79.802287,
+                            11.92263
+                        ],
+                        [
+                            79.810926,
+                            11.924244
+                        ],
+                        [
+                            79.816341,
+                            11.925159
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "MUDALIARPET",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 34719,
+                "VOTERS": 29536,
+                "TURNOUT": 85.1,
+                "MARGIN": 4179.0,
+                "MARGIN_PERCENTAGE": 14.1,
+                "PARTY_RANK1": "DMK",
+                "PARTY_RANK2": "AIADMK",
+                "PARTY_RANK3": "MNM",
+                "CANDIDATE_RANK1": "L. SAMBATH",
+                "CANDIDATE_RANK2": "A. BASKAR",
+                "CANDIDATE_RANK3": "M. ARIKRISHNAN",
+                "VOTES_RANK1": 15151.0,
+                "VOTES_RANK1_PERCENTAGE": 51,
+                "VOTES_RANK2": 10972.0,
+                "VOTES_RANK2_PERCENTAGE": 37.15,
+                "VOTES_RANK3": 1321,
+                "VOTES_RANK3_PERCENTAGE": 4.47
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.829928,
+                            11.957657
+                        ],
+                        [
+                            79.838867,
+                            11.956074
+                        ],
+                        [
+                            79.838381,
+                            11.94746
+                        ],
+                        [
+                            79.834349,
+                            11.948959
+                        ],
+                        [
+                            79.832812,
+                            11.941807
+                        ],
+                        [
+                            79.824683,
+                            11.939505
+                        ],
+                        [
+                            79.829928,
+                            11.957657
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "MUTHIALPET",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 29809,
+                "VOTERS": 23423,
+                "TURNOUT": 78.6,
+                "MARGIN": 934.0,
+                "MARGIN_PERCENTAGE": 4.0,
+                "PARTY_RANK1": "IND",
+                "PARTY_RANK2": "AIADMK",
+                "PARTY_RANK3": "INC",
+                "CANDIDATE_RANK1": "J. PRAKASH KUMAR",
+                "CANDIDATE_RANK2": "VAIYAPURI MANIKANDAN",
+                "CANDIDATE_RANK3": "S. SENTHIL KUMARAN",
+                "VOTES_RANK1": 8778.0,
+                "VOTES_RANK1_PERCENTAGE": 37,
+                "VOTES_RANK2": 7844.0,
+                "VOTES_RANK2_PERCENTAGE": 33.49,
+                "VOTES_RANK3": 4402,
+                "VOTES_RANK3_PERCENTAGE": 18.79
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.820731,
+                            11.934745
+                        ],
+                        [
+                            79.828752,
+                            11.933903
+                        ],
+                        [
+                            79.827143,
+                            11.928251
+                        ],
+                        [
+                            79.824202,
+                            11.928679
+                        ],
+                        [
+                            79.81654,
+                            11.92532
+                        ],
+                        [
+                            79.810108,
+                            11.930173
+                        ],
+                        [
+                            79.810064,
+                            11.93041
+                        ],
+                        [
+                            79.810987,
+                            11.930582
+                        ],
+                        [
+                            79.817657,
+                            11.934449
+                        ],
+                        [
+                            79.820731,
+                            11.934745
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "ORLEAMPETH",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 24372,
+                "VOTERS": 20257,
+                "TURNOUT": 83.1,
+                "MARGIN": 2093.0,
+                "MARGIN_PERCENTAGE": 10.3,
+                "PARTY_RANK1": "IND",
+                "PARTY_RANK2": "DMK",
+                "PARTY_RANK3": "AIADMK",
+                "CANDIDATE_RANK1": "G. NEHRU @ KUPPUSAMY",
+                "CANDIDATE_RANK2": "S. GOPAL",
+                "CANDIDATE_RANK3": "OMSAKTHISEKAR",
+                "VOTES_RANK1": 9580.0,
+                "VOTES_RANK1_PERCENTAGE": 47,
+                "VOTES_RANK2": 7487.0,
+                "VOTES_RANK2_PERCENTAGE": 36.96,
+                "VOTES_RANK3": 1787,
+                "VOTES_RANK3_PERCENTAGE": 8.82
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.824202,
+                            11.928679
+                        ],
+                        [
+                            79.827143,
+                            11.928251
+                        ],
+                        [
+                            79.834963,
+                            11.927087
+                        ],
+                        [
+                            79.831768,
+                            11.916782
+                        ],
+                        [
+                            79.81333,
+                            11.920009
+                        ],
+                        [
+                            79.816341,
+                            11.925159
+                        ],
+                        [
+                            79.81654,
+                            11.92532
+                        ],
+                        [
+                            79.824202,
+                            11.928679
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "OUPALAM",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 27603,
+                "VOTERS": 23717,
+                "TURNOUT": 85.9,
+                "MARGIN": 4780.0,
+                "MARGIN_PERCENTAGE": 20.2,
+                "PARTY_RANK1": "DMK",
+                "PARTY_RANK2": "AIADMK",
+                "PARTY_RANK3": "MNM",
+                "CANDIDATE_RANK1": "ANNIBAL KENNEDY",
+                "CANDIDATE_RANK2": "A. ANBALAGAN",
+                "CANDIDATE_RANK3": "SANTHOSH KUMAR",
+                "VOTES_RANK1": 13433.0,
+                "VOTES_RANK1_PERCENTAGE": 56,
+                "VOTES_RANK2": 8653.0,
+                "VOTES_RANK2_PERCENTAGE": 36.48,
+                "VOTES_RANK3": 629,
+                "VOTES_RANK3_PERCENTAGE": 2.65
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.797415,
+                            11.939414
+                        ],
+                        [
+                            79.797997,
+                            11.939093
+                        ],
+                        [
+                            79.797916,
+                            11.935781
+                        ],
+                        [
+                            79.80662,
+                            11.928009
+                        ],
+                        [
+                            79.802287,
+                            11.92263
+                        ],
+                        [
+                            79.790051,
+                            11.91856
+                        ],
+                        [
+                            79.788458,
+                            11.927174
+                        ],
+                        [
+                            79.780739,
+                            11.932005
+                        ],
+                        [
+                            79.776534,
+                            11.925841
+                        ],
+                        [
+                            79.769946,
+                            11.925382
+                        ],
+                        [
+                            79.774911,
+                            11.9293
+                        ],
+                        [
+                            79.769538,
+                            11.928953
+                        ],
+                        [
+                            79.764889,
+                            11.93333
+                        ],
+                        [
+                            79.770505,
+                            11.935751
+                        ],
+                        [
+                            79.785189,
+                            11.936525
+                        ],
+                        [
+                            79.794318,
+                            11.933523
+                        ],
+                        [
+                            79.797415,
+                            11.939414
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "OZHUKARAI",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 40656,
+                "VOTERS": 32710,
+                "TURNOUT": 80.5,
+                "MARGIN": 819.0,
+                "MARGIN_PERCENTAGE": 2.5,
+                "PARTY_RANK1": "IND",
+                "PARTY_RANK2": "AINRC",
+                "PARTY_RANK3": "VCK",
+                "CANDIDATE_RANK1": "M. SIVASANKAR",
+                "CANDIDATE_RANK2": "N.G. PANNIR SELVAM",
+                "CANDIDATE_RANK3": "ANGALANE @ DEVA POZHILAN",
+                "VOTES_RANK1": 11940.0,
+                "VOTES_RANK1_PERCENTAGE": 36,
+                "VOTES_RANK2": 11121.0,
+                "VOTES_RANK2_PERCENTAGE": 34.0,
+                "VOTES_RANK3": 5633,
+                "VOTES_RANK3_PERCENTAGE": 17.22
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.838381,
+                            11.94746
+                        ],
+                        [
+                            79.834963,
+                            11.927087
+                        ],
+                        [
+                            79.827143,
+                            11.928251
+                        ],
+                        [
+                            79.828752,
+                            11.933903
+                        ],
+                        [
+                            79.820731,
+                            11.934745
+                        ],
+                        [
+                            79.824683,
+                            11.939505
+                        ],
+                        [
+                            79.832812,
+                            11.941807
+                        ],
+                        [
+                            79.834349,
+                            11.948959
+                        ],
+                        [
+                            79.838381,
+                            11.94746
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "RAJ BHAVAN",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 26422,
+                "VOTERS": 19466,
+                "TURNOUT": 73.7,
+                "MARGIN": 3732.0,
+                "MARGIN_PERCENTAGE": 19.2,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "DMK",
+                "PARTY_RANK3": "MNM",
+                "CANDIDATE_RANK1": "K. LAKSHMINARAYANAN",
+                "CANDIDATE_RANK2": "S.P. SIVAKUMAR",
+                "CANDIDATE_RANK3": "S. PARUVADHAVARDHNIE",
+                "VOTES_RANK1": 10096.0,
+                "VOTES_RANK1_PERCENTAGE": 51,
+                "VOTES_RANK2": 6364.0,
+                "VOTES_RANK2_PERCENTAGE": 32.69,
+                "VOTES_RANK3": 1462,
+                "VOTES_RANK3_PERCENTAGE": 7.51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.810225,
+                            11.956227
+                        ],
+                        [
+                            79.815172,
+                            11.956224
+                        ],
+                        [
+                            79.816195,
+                            11.94915
+                        ],
+                        [
+                            79.817165,
+                            11.94287
+                        ],
+                        [
+                            79.807925,
+                            11.938576
+                        ],
+                        [
+                            79.807564,
+                            11.935876
+                        ],
+                        [
+                            79.806015,
+                            11.936741
+                        ],
+                        [
+                            79.797916,
+                            11.935781
+                        ],
+                        [
+                            79.797997,
+                            11.939093
+                        ],
+                        [
+                            79.805428,
+                            11.949185
+                        ],
+                        [
+                            79.807324,
+                            11.946322
+                        ],
+                        [
+                            79.80549,
+                            11.952868
+                        ],
+                        [
+                            79.810225,
+                            11.956227
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "THATTANCHAVADY",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 29760,
+                "VOTERS": 23586,
+                "TURNOUT": 79.3,
+                "MARGIN": 5456.0,
+                "MARGIN_PERCENTAGE": 23.1,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "CPI",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "N. RANGASAMY",
+                "CANDIDATE_RANK2": "K. SETHU @ SETHU SELVAM",
+                "CANDIDATE_RANK3": "D. RAMESH",
+                "VOTES_RANK1": 12978.0,
+                "VOTES_RANK1_PERCENTAGE": 55,
+                "VOTES_RANK2": 7522.0,
+                "VOTES_RANK2_PERCENTAGE": 31.89,
+                "VOTES_RANK3": 1183,
+                "VOTES_RANK3_PERCENTAGE": 5.02
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            79.769538,
+                            11.928953
+                        ],
+                        [
+                            79.774911,
+                            11.9293
+                        ],
+                        [
+                            79.769946,
+                            11.925382
+                        ],
+                        [
+                            79.776534,
+                            11.925841
+                        ],
+                        [
+                            79.780739,
+                            11.932005
+                        ],
+                        [
+                            79.788458,
+                            11.927174
+                        ],
+                        [
+                            79.790051,
+                            11.91856
+                        ],
+                        [
+                            79.790094,
+                            11.915159
+                        ],
+                        [
+                            79.790294,
+                            11.897185
+                        ],
+                        [
+                            79.781435,
+                            11.902808
+                        ],
+                        [
+                            79.771543,
+                            11.902749
+                        ],
+                        [
+                            79.763209,
+                            11.902989
+                        ],
+                        [
+                            79.761364,
+                            11.913744
+                        ],
+                        [
+                            79.737492,
+                            11.917148
+                        ],
+                        [
+                            79.745007,
+                            11.920937
+                        ],
+                        [
+                            79.744127,
+                            11.929949
+                        ],
+                        [
+                            79.74912,
+                            11.929465
+                        ],
+                        [
+                            79.75021,
+                            11.919952
+                        ],
+                        [
+                            79.756214,
+                            11.920434
+                        ],
+                        [
+                            79.755012,
+                            11.926056
+                        ],
+                        [
+                            79.761195,
+                            11.928517
+                        ],
+                        [
+                            79.769538,
+                            11.928953
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "VILLIANUR",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 40792,
+                "VOTERS": 35266,
+                "TURNOUT": 86.5,
+                "MARGIN": 6950.0,
+                "MARGIN_PERCENTAGE": 19.7,
+                "PARTY_RANK1": "DMK",
+                "PARTY_RANK2": "AINRC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "R. SIVA",
+                "CANDIDATE_RANK2": "S.V. SUGUMARAN",
+                "CANDIDATE_RANK3": "PRAVEENA",
+                "VOTES_RANK1": 19653.0,
+                "VOTES_RANK1_PERCENTAGE": 55,
+                "VOTES_RANK2": 12703.0,
+                "VOTES_RANK2_PERCENTAGE": 36.02,
+                "VOTES_RANK3": 1182,
+                "VOTES_RANK3_PERCENTAGE": 3.35
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            82.267469,
+                            16.694651
+                        ],
+                        [
+                            82.239041,
+                            16.716292
+                        ],
+                        [
+                            82.203796,
+                            16.717716
+                        ],
+                        [
+                            82.193411,
+                            16.721635
+                        ],
+                        [
+                            82.194964,
+                            16.730182
+                        ],
+                        [
+                            82.186364,
+                            16.729998
+                        ],
+                        [
+                            82.186322,
+                            16.737084
+                        ],
+                        [
+                            82.205581,
+                            16.73459
+                        ],
+                        [
+                            82.211921,
+                            16.751104
+                        ],
+                        [
+                            82.219859,
+                            16.750306
+                        ],
+                        [
+                            82.220703,
+                            16.75751
+                        ],
+                        [
+                            82.225997,
+                            16.75862
+                        ],
+                        [
+                            82.228142,
+                            16.760728
+                        ],
+                        [
+                            82.231982,
+                            16.754827
+                        ],
+                        [
+                            82.2244,
+                            16.753039
+                        ],
+                        [
+                            82.217476,
+                            16.732766
+                        ],
+                        [
+                            82.243472,
+                            16.722274
+                        ],
+                        [
+                            82.258063,
+                            16.720423
+                        ],
+                        [
+                            82.270386,
+                            16.72193
+                        ],
+                        [
+                            82.275969,
+                            16.727405
+                        ],
+                        [
+                            82.289713,
+                            16.72667
+                        ],
+                        [
+                            82.305494,
+                            16.748267
+                        ],
+                        [
+                            82.313786,
+                            16.729395
+                        ],
+                        [
+                            82.309146,
+                            16.716808
+                        ],
+                        [
+                            82.294481,
+                            16.704536
+                        ],
+                        [
+                            82.267469,
+                            16.694651
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "YANAM",
+                "AC_NAME": "YANAM",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 36562,
+                "VOTERS": 34910,
+                "TURNOUT": 95.5,
+                "MARGIN": 655.0,
+                "MARGIN_PERCENTAGE": 1.9,
+                "PARTY_RANK1": "IND",
+                "PARTY_RANK2": "AINRC",
+                "PARTY_RANK3": "IND",
+                "CANDIDATE_RANK1": "GOLLAPALLI SRINIVAS ASHOK",
+                "CANDIDATE_RANK2": "N.RANGASAMY",
+                "CANDIDATE_RANK3": "DAVULURY VEERA VRATHA PATHI",
+                "VOTES_RANK1": 17132.0,
+                "VOTES_RANK1_PERCENTAGE": 49,
+                "VOTES_RANK2": 16477.0,
+                "VOTES_RANK2_PERCENTAGE": 47.2,
+                "VOTES_RANK3": 320,
+                "VOTES_RANK3_PERCENTAGE": 0.92
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.809527,
+                                10.878051
+                            ],
+                            [
+                                79.806867,
+                                10.87767
+                            ],
+                            [
+                                79.807354,
+                                10.880698
+                            ],
+                            [
+                                79.809527,
+                                10.878051
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.76269,
+                                10.909074
+                            ],
+                            [
+                                79.762098,
+                                10.901596
+                            ],
+                            [
+                                79.767802,
+                                10.901831
+                            ],
+                            [
+                                79.763972,
+                                10.907363
+                            ],
+                            [
+                                79.764624,
+                                10.910413
+                            ],
+                            [
+                                79.775606,
+                                10.909095
+                            ],
+                            [
+                                79.776882,
+                                10.905454
+                            ],
+                            [
+                                79.776918,
+                                10.896624
+                            ],
+                            [
+                                79.756208,
+                                10.891815
+                            ],
+                            [
+                                79.763504,
+                                10.899853
+                            ],
+                            [
+                                79.761284,
+                                10.901813
+                            ],
+                            [
+                                79.756946,
+                                10.896534
+                            ],
+                            [
+                                79.761481,
+                                10.912808
+                            ],
+                            [
+                                79.763813,
+                                10.910946
+                            ],
+                            [
+                                79.76269,
+                                10.909074
+                            ]
+                        ],
+                        [
+                            [
+                                79.767103,
+                                10.901251
+                            ],
+                            [
+                                79.76655,
+                                10.898707
+                            ],
+                            [
+                                79.770348,
+                                10.901451
+                            ],
+                            [
+                                79.768859,
+                                10.901016
+                            ],
+                            [
+                                79.767103,
+                                10.901251
+                            ]
+                        ],
+                        [
+                            [
+                                79.75808,
+                                10.899866
+                            ],
+                            [
+                                79.758547,
+                                10.899859
+                            ],
+                            [
+                                79.758551,
+                                10.900551
+                            ],
+                            [
+                                79.758084,
+                                10.900576
+                            ],
+                            [
+                                79.75808,
+                                10.899866
+                            ]
+                        ],
+                        [
+                            [
+                                79.770606,
+                                10.900862
+                            ],
+                            [
+                                79.771348,
+                                10.899985
+                            ],
+                            [
+                                79.771193,
+                                10.901044
+                            ],
+                            [
+                                79.770606,
+                                10.900862
+                            ]
+                        ],
+                        [
+                            [
+                                79.770806,
+                                10.898826
+                            ],
+                            [
+                                79.771437,
+                                10.898583
+                            ],
+                            [
+                                79.771576,
+                                10.899053
+                            ],
+                            [
+                                79.770973,
+                                10.899255
+                            ],
+                            [
+                                79.770806,
+                                10.898826
+                            ]
+                        ],
+                        [
+                            [
+                                79.770263,
+                                10.902763
+                            ],
+                            [
+                                79.769686,
+                                10.90259
+                            ],
+                            [
+                                79.770449,
+                                10.902256
+                            ],
+                            [
+                                79.770263,
+                                10.902763
+                            ]
+                        ],
+                        [
+                            [
+                                79.769197,
+                                10.903479
+                            ],
+                            [
+                                79.769198,
+                                10.903809
+                            ],
+                            [
+                                79.768584,
+                                10.903749
+                            ],
+                            [
+                                79.769197,
+                                10.903479
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.852713,
+                                10.910492
+                            ],
+                            [
+                                79.852699,
+                                10.833387
+                            ],
+                            [
+                                79.850705,
+                                10.827897
+                            ],
+                            [
+                                79.841287,
+                                10.828007
+                            ],
+                            [
+                                79.83098,
+                                10.827445
+                            ],
+                            [
+                                79.828006,
+                                10.849736
+                            ],
+                            [
+                                79.820997,
+                                10.845625
+                            ],
+                            [
+                                79.807855,
+                                10.855679
+                            ],
+                            [
+                                79.807407,
+                                10.865505
+                            ],
+                            [
+                                79.811618,
+                                10.859717
+                            ],
+                            [
+                                79.824824,
+                                10.864891
+                            ],
+                            [
+                                79.822325,
+                                10.874303
+                            ],
+                            [
+                                79.811025,
+                                10.875636
+                            ],
+                            [
+                                79.811219,
+                                10.880398
+                            ],
+                            [
+                                79.828731,
+                                10.883528
+                            ],
+                            [
+                                79.804251,
+                                10.891117
+                            ],
+                            [
+                                79.794609,
+                                10.887602
+                            ],
+                            [
+                                79.790272,
+                                10.894938
+                            ],
+                            [
+                                79.789883,
+                                10.890403
+                            ],
+                            [
+                                79.783576,
+                                10.888535
+                            ],
+                            [
+                                79.782477,
+                                10.895384
+                            ],
+                            [
+                                79.793779,
+                                10.898756
+                            ],
+                            [
+                                79.79128,
+                                10.904897
+                            ],
+                            [
+                                79.795245,
+                                10.902727
+                            ],
+                            [
+                                79.806582,
+                                10.910833
+                            ],
+                            [
+                                79.804297,
+                                10.896949
+                            ],
+                            [
+                                79.807955,
+                                10.901533
+                            ],
+                            [
+                                79.83035,
+                                10.902142
+                            ],
+                            [
+                                79.83433,
+                                10.908101
+                            ],
+                            [
+                                79.842474,
+                                10.908224
+                            ],
+                            [
+                                79.846349,
+                                10.91493
+                            ],
+                            [
+                                79.853178,
+                                10.915204
+                            ],
+                            [
+                                79.852713,
+                                10.910492
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "KARAIKAL",
+                "AC_NAME": "NERAVY T.R. PATTINAM",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 30480,
+                "VOTERS": 26006,
+                "TURNOUT": 85.3,
+                "MARGIN": 5511.0,
+                "MARGIN_PERCENTAGE": 21.2,
+                "PARTY_RANK1": "DMK",
+                "PARTY_RANK2": "BJP",
+                "PARTY_RANK3": "IND",
+                "CANDIDATE_RANK1": "M.NAGATHIYAGARAJAN",
+                "CANDIDATE_RANK2": "V.M.C.S.MANOHAREN",
+                "CANDIDATE_RANK3": "GEETHA ANANDAN",
+                "VOTES_RANK1": 14496.0,
+                "VOTES_RANK1_PERCENTAGE": 55,
+                "VOTES_RANK2": 8985.0,
+                "VOTES_RANK2_PERCENTAGE": 34.55,
+                "VOTES_RANK3": 1495,
+                "VOTES_RANK3_PERCENTAGE": 5.75
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.739707,
+                                10.920151
+                            ],
+                            [
+                                79.738828,
+                                10.920129
+                            ],
+                            [
+                                79.739448,
+                                10.921378
+                            ],
+                            [
+                                79.739707,
+                                10.920151
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.722296,
+                                10.937356
+                            ],
+                            [
+                                79.721625,
+                                10.935039
+                            ],
+                            [
+                                79.720259,
+                                10.937198
+                            ],
+                            [
+                                79.722296,
+                                10.937356
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.730896,
+                                10.970504
+                            ],
+                            [
+                                79.73912,
+                                10.964597
+                            ],
+                            [
+                                79.746158,
+                                10.965051
+                            ],
+                            [
+                                79.745044,
+                                10.956648
+                            ],
+                            [
+                                79.7627,
+                                10.962135
+                            ],
+                            [
+                                79.782955,
+                                10.965357
+                            ],
+                            [
+                                79.78517,
+                                10.951875
+                            ],
+                            [
+                                79.807291,
+                                10.946142
+                            ],
+                            [
+                                79.811811,
+                                10.937041
+                            ],
+                            [
+                                79.80695,
+                                10.937488
+                            ],
+                            [
+                                79.810093,
+                                10.932641
+                            ],
+                            [
+                                79.804618,
+                                10.929256
+                            ],
+                            [
+                                79.807474,
+                                10.9268
+                            ],
+                            [
+                                79.803676,
+                                10.912115
+                            ],
+                            [
+                                79.806582,
+                                10.910833
+                            ],
+                            [
+                                79.795245,
+                                10.902727
+                            ],
+                            [
+                                79.789244,
+                                10.908503
+                            ],
+                            [
+                                79.777338,
+                                10.90901
+                            ],
+                            [
+                                79.776882,
+                                10.905454
+                            ],
+                            [
+                                79.775606,
+                                10.909095
+                            ],
+                            [
+                                79.764624,
+                                10.910413
+                            ],
+                            [
+                                79.763813,
+                                10.910946
+                            ],
+                            [
+                                79.761481,
+                                10.912808
+                            ],
+                            [
+                                79.758888,
+                                10.916665
+                            ],
+                            [
+                                79.744928,
+                                10.914583
+                            ],
+                            [
+                                79.742882,
+                                10.924347
+                            ],
+                            [
+                                79.724763,
+                                10.929026
+                            ],
+                            [
+                                79.729084,
+                                10.936418
+                            ],
+                            [
+                                79.723021,
+                                10.93495
+                            ],
+                            [
+                                79.727086,
+                                10.937839
+                            ],
+                            [
+                                79.723989,
+                                10.941888
+                            ],
+                            [
+                                79.737279,
+                                10.952462
+                            ],
+                            [
+                                79.734503,
+                                10.957546
+                            ],
+                            [
+                                79.732357,
+                                10.951224
+                            ],
+                            [
+                                79.71977,
+                                10.952249
+                            ],
+                            [
+                                79.719228,
+                                10.968466
+                            ],
+                            [
+                                79.730896,
+                                10.970504
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "KARAIKAL",
+                "AC_NAME": "THIRUNALLAR",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 30295,
+                "VOTERS": 26874,
+                "TURNOUT": 88.7,
+                "MARGIN": 1380.0,
+                "MARGIN_PERCENTAGE": 5.1,
+                "PARTY_RANK1": "IND",
+                "PARTY_RANK2": "BJP",
+                "PARTY_RANK3": "INC",
+                "CANDIDATE_RANK1": "PR. SIVA",
+                "CANDIDATE_RANK2": "S. RAJASEKARAN",
+                "CANDIDATE_RANK3": "R. KAMALAKKANNAN",
+                "VOTES_RANK1": 9796.0,
+                "VOTES_RANK1_PERCENTAGE": 36,
+                "VOTES_RANK2": 8416.0,
+                "VOTES_RANK2_PERCENTAGE": 31.32,
+                "VOTES_RANK3": 7731,
+                "VOTES_RANK3_PERCENTAGE": 28.77
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                75.541999,
+                                11.698736
+                            ],
+                            [
+                                75.536587,
+                                11.693939
+                            ],
+                            [
+                                75.530556,
+                                11.704028
+                            ],
+                            [
+                                75.535853,
+                                11.709934
+                            ],
+                            [
+                                75.544294,
+                                11.704624
+                            ],
+                            [
+                                75.541999,
+                                11.698736
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                75.538218,
+                                11.76271
+                            ],
+                            [
+                                75.546235,
+                                11.756346
+                            ],
+                            [
+                                75.543286,
+                                11.734379
+                            ],
+                            [
+                                75.555777,
+                                11.727695
+                            ],
+                            [
+                                75.555506,
+                                11.721748
+                            ],
+                            [
+                                75.547881,
+                                11.715416
+                            ],
+                            [
+                                75.537769,
+                                11.716045
+                            ],
+                            [
+                                75.536587,
+                                11.71939
+                            ],
+                            [
+                                75.532502,
+                                11.715811
+                            ],
+                            [
+                                75.537544,
+                                11.712174
+                            ],
+                            [
+                                75.531169,
+                                11.708436
+                            ],
+                            [
+                                75.526636,
+                                11.726135
+                            ],
+                            [
+                                75.531921,
+                                11.734544
+                            ],
+                            [
+                                75.540253,
+                                11.734742
+                            ],
+                            [
+                                75.541603,
+                                11.738839
+                            ],
+                            [
+                                75.540557,
+                                11.748579
+                            ],
+                            [
+                                75.531262,
+                                11.758629
+                            ],
+                            [
+                                75.538218,
+                                11.76271
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "MAHE",
+                "AC_NAME": "MAHE",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 30296,
+                "VOTERS": 23408,
+                "TURNOUT": 77.3,
+                "MARGIN": 300.0,
+                "MARGIN_PERCENTAGE": 1.3,
+                "PARTY_RANK1": "INC",
+                "PARTY_RANK2": "IND",
+                "PARTY_RANK3": "AINRC",
+                "CANDIDATE_RANK1": "RAMESH PARAMBATH",
+                "CANDIDATE_RANK2": "N. HARIDASAN MASTER",
+                "CANDIDATE_RANK3": "ADV. V.P. ABDUL RAHMAN",
+                "VOTES_RANK1": 9744.0,
+                "VOTES_RANK1_PERCENTAGE": 41,
+                "VOTES_RANK2": 9444.0,
+                "VOTES_RANK2_PERCENTAGE": 40.35,
+                "VOTES_RANK3": 3532,
+                "VOTES_RANK3_PERCENTAGE": 15.09
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.700348,
+                                11.821662
+                            ],
+                            [
+                                79.7026,
+                                11.813471
+                            ],
+                            [
+                                79.691958,
+                                11.814165
+                            ],
+                            [
+                                79.692561,
+                                11.822476
+                            ],
+                            [
+                                79.700348,
+                                11.821662
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.757506,
+                                11.812709
+                            ],
+                            [
+                                79.800414,
+                                11.809949
+                            ],
+                            [
+                                79.795765,
+                                11.785537
+                            ],
+                            [
+                                79.784368,
+                                11.787385
+                            ],
+                            [
+                                79.780416,
+                                11.781155
+                            ],
+                            [
+                                79.77187,
+                                11.782225
+                            ],
+                            [
+                                79.770594,
+                                11.789557
+                            ],
+                            [
+                                79.765842,
+                                11.791869
+                            ],
+                            [
+                                79.755031,
+                                11.775276
+                            ],
+                            [
+                                79.719828,
+                                11.784926
+                            ],
+                            [
+                                79.712397,
+                                11.791546
+                            ],
+                            [
+                                79.713921,
+                                11.796264
+                            ],
+                            [
+                                79.7228,
+                                11.796494
+                            ],
+                            [
+                                79.724462,
+                                11.810396
+                            ],
+                            [
+                                79.735703,
+                                11.809338
+                            ],
+                            [
+                                79.729472,
+                                11.83704
+                            ],
+                            [
+                                79.740769,
+                                11.834852
+                            ],
+                            [
+                                79.744205,
+                                11.813917
+                            ],
+                            [
+                                79.757506,
+                                11.812709
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "BAHOUR",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 28782,
+                "VOTERS": 26456,
+                "TURNOUT": 91.9,
+                "MARGIN": 211.0,
+                "MARGIN_PERCENTAGE": 0.8,
+                "PARTY_RANK1": "DMK",
+                "PARTY_RANK2": "AINRC",
+                "PARTY_RANK3": "AMMK",
+                "CANDIDATE_RANK1": "R SENTHILKUMAR",
+                "CANDIDATE_RANK2": "N DHANAVELOU",
+                "CANDIDATE_RANK3": "P VELMURUGAN",
+                "VOTES_RANK1": 11789.0,
+                "VOTES_RANK1_PERCENTAGE": 44,
+                "VOTES_RANK2": 11578.0,
+                "VOTES_RANK2_PERCENTAGE": 43.76,
+                "VOTES_RANK3": 1408,
+                "VOTES_RANK3_PERCENTAGE": 5.32
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.737695,
+                                11.842942
+                            ],
+                            [
+                                79.764363,
+                                11.83378
+                            ],
+                            [
+                                79.767749,
+                                11.822747
+                            ],
+                            [
+                                79.772969,
+                                11.822712
+                            ],
+                            [
+                                79.780155,
+                                11.831888
+                            ],
+                            [
+                                79.795737,
+                                11.82854
+                            ],
+                            [
+                                79.797469,
+                                11.824601
+                            ],
+                            [
+                                79.800637,
+                                11.830686
+                            ],
+                            [
+                                79.793572,
+                                11.83239
+                            ],
+                            [
+                                79.798219,
+                                11.838743
+                            ],
+                            [
+                                79.806987,
+                                11.833471
+                            ],
+                            [
+                                79.800414,
+                                11.809949
+                            ],
+                            [
+                                79.757506,
+                                11.812709
+                            ],
+                            [
+                                79.744205,
+                                11.813917
+                            ],
+                            [
+                                79.740769,
+                                11.834852
+                            ],
+                            [
+                                79.729472,
+                                11.83704
+                            ],
+                            [
+                                79.738087,
+                                11.836912
+                            ],
+                            [
+                                79.737695,
+                                11.842942
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.743038,
+                                11.888648
+                            ],
+                            [
+                                79.751824,
+                                11.88796
+                            ],
+                            [
+                                79.750724,
+                                11.874093
+                            ],
+                            [
+                                79.757031,
+                                11.868207
+                            ],
+                            [
+                                79.751822,
+                                11.848389
+                            ],
+                            [
+                                79.74308,
+                                11.84846
+                            ],
+                            [
+                                79.741853,
+                                11.862851
+                            ],
+                            [
+                                79.733763,
+                                11.865572
+                            ],
+                            [
+                                79.721085,
+                                11.862495
+                            ],
+                            [
+                                79.71962,
+                                11.853042
+                            ],
+                            [
+                                79.708235,
+                                11.869105
+                            ],
+                            [
+                                79.709382,
+                                11.883695
+                            ],
+                            [
+                                79.717735,
+                                11.881425
+                            ],
+                            [
+                                79.743038,
+                                11.888648
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "EMBALAM",
+                "YEAR": 2021,
+                "RES": "SC",
+                "ELECTORS": 33340,
+                "VOTERS": 30723,
+                "TURNOUT": 92.2,
+                "MARGIN": 2240.0,
+                "MARGIN_PERCENTAGE": 7.3,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "MNM",
+                "CANDIDATE_RANK1": "U LAKSHMIKANDHAN",
+                "CANDIDATE_RANK2": "M CANDASSAMY",
+                "CANDIDATE_RANK3": "N SOMANATHAN",
+                "VOTES_RANK1": 15624.0,
+                "VOTES_RANK1_PERCENTAGE": 50,
+                "VOTES_RANK2": 13384.0,
+                "VOTES_RANK2_PERCENTAGE": 43.56,
+                "VOTES_RANK3": 618,
+                "VOTES_RANK3_PERCENTAGE": 2.01
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.806015,
+                                11.936741
+                            ],
+                            [
+                                79.807564,
+                                11.935876
+                            ],
+                            [
+                                79.805188,
+                                11.931048
+                            ],
+                            [
+                                79.810064,
+                                11.93041
+                            ],
+                            [
+                                79.810108,
+                                11.930173
+                            ],
+                            [
+                                79.810926,
+                                11.924244
+                            ],
+                            [
+                                79.802287,
+                                11.92263
+                            ],
+                            [
+                                79.80662,
+                                11.928009
+                            ],
+                            [
+                                79.797916,
+                                11.935781
+                            ],
+                            [
+                                79.806015,
+                                11.936741
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.789107,
+                                11.950072
+                            ],
+                            [
+                                79.79502,
+                                11.946942
+                            ],
+                            [
+                                79.797415,
+                                11.939414
+                            ],
+                            [
+                                79.794318,
+                                11.933523
+                            ],
+                            [
+                                79.785189,
+                                11.936525
+                            ],
+                            [
+                                79.784699,
+                                11.954773
+                            ],
+                            [
+                                79.789107,
+                                11.950072
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "KADIRGAMAM",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 33454,
+                "VOTERS": 27005,
+                "TURNOUT": 80.7,
+                "MARGIN": 12246.0,
+                "MARGIN_PERCENTAGE": 45.3,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "K.S.P @ S. RAMESH",
+                "CANDIDATE_RANK2": "P. SELVANADANE",
+                "CANDIDATE_RANK3": "SUBASRI",
+                "VOTES_RANK1": 17775.0,
+                "VOTES_RANK1_PERCENTAGE": 65,
+                "VOTES_RANK2": 5529.0,
+                "VOTES_RANK2_PERCENTAGE": 20.47,
+                "VOTES_RANK3": 2266,
+                "VOTES_RANK3_PERCENTAGE": 8.39
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.821642,
+                                11.969558
+                            ],
+                            [
+                                79.828371,
+                                11.958715
+                            ],
+                            [
+                                79.823877,
+                                11.957557
+                            ],
+                            [
+                                79.816293,
+                                11.968945
+                            ],
+                            [
+                                79.816389,
+                                11.958565
+                            ],
+                            [
+                                79.805285,
+                                11.963633
+                            ],
+                            [
+                                79.812542,
+                                11.977934
+                            ],
+                            [
+                                79.81844,
+                                11.977931
+                            ],
+                            [
+                                79.821642,
+                                11.969558
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.794342,
+                                12.025839
+                            ],
+                            [
+                                79.805314,
+                                12.024544
+                            ],
+                            [
+                                79.798334,
+                                12.016951
+                            ],
+                            [
+                                79.788317,
+                                12.019235
+                            ],
+                            [
+                                79.78929,
+                                12.027687
+                            ],
+                            [
+                                79.794342,
+                                12.025839
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.857579,
+                                12.007777
+                            ],
+                            [
+                                79.857064,
+                                12.006808
+                            ],
+                            [
+                                79.84047,
+                                12.013271
+                            ],
+                            [
+                                79.848807,
+                                12.049153
+                            ],
+                            [
+                                79.849765,
+                                12.051817
+                            ],
+                            [
+                                79.873793,
+                                12.042624
+                            ],
+                            [
+                                79.857579,
+                                12.007777
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "KALAPET",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 33192,
+                "VOTERS": 29751,
+                "TURNOUT": 89.6,
+                "MARGIN": 3508.0,
+                "MARGIN_PERCENTAGE": 11.8,
+                "PARTY_RANK1": "BJP",
+                "PARTY_RANK2": "IND",
+                "PARTY_RANK3": "DMK",
+                "CANDIDATE_RANK1": "P.M.L. KALYANASUNDARAM",
+                "CANDIDATE_RANK2": "A. SENTHIL @ RAMESH",
+                "CANDIDATE_RANK3": "S. MOUTTOUVEL",
+                "VOTES_RANK1": 13277.0,
+                "VOTES_RANK1_PERCENTAGE": 44,
+                "VOTES_RANK2": 9769.0,
+                "VOTES_RANK2_PERCENTAGE": 32.84,
+                "VOTES_RANK3": 3769,
+                "VOTES_RANK3_PERCENTAGE": 12.67
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.699828,
+                                11.873798
+                            ],
+                            [
+                                79.699087,
+                                11.861265
+                            ],
+                            [
+                                79.695979,
+                                11.860394
+                            ],
+                            [
+                                79.6994,
+                                11.87432
+                            ],
+                            [
+                                79.699828,
+                                11.873798
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.704519,
+                                11.919119
+                            ],
+                            [
+                                79.718602,
+                                11.918975
+                            ],
+                            [
+                                79.717927,
+                                11.913353
+                            ],
+                            [
+                                79.706558,
+                                11.913502
+                            ],
+                            [
+                                79.708983,
+                                11.903311
+                            ],
+                            [
+                                79.705253,
+                                11.893877
+                            ],
+                            [
+                                79.711133,
+                                11.890752
+                            ],
+                            [
+                                79.716833,
+                                11.892841
+                            ],
+                            [
+                                79.724095,
+                                11.888645
+                            ],
+                            [
+                                79.722755,
+                                11.891763
+                            ],
+                            [
+                                79.730501,
+                                11.891703
+                            ],
+                            [
+                                79.731279,
+                                11.90315
+                            ],
+                            [
+                                79.74065,
+                                11.90547
+                            ],
+                            [
+                                79.734636,
+                                11.911804
+                            ],
+                            [
+                                79.737492,
+                                11.917148
+                            ],
+                            [
+                                79.761364,
+                                11.913744
+                            ],
+                            [
+                                79.763209,
+                                11.902989
+                            ],
+                            [
+                                79.771543,
+                                11.902749
+                            ],
+                            [
+                                79.772666,
+                                11.875824
+                            ],
+                            [
+                                79.770023,
+                                11.874594
+                            ],
+                            [
+                                79.757361,
+                                11.876111
+                            ],
+                            [
+                                79.757031,
+                                11.868207
+                            ],
+                            [
+                                79.750724,
+                                11.874093
+                            ],
+                            [
+                                79.751824,
+                                11.88796
+                            ],
+                            [
+                                79.743038,
+                                11.888648
+                            ],
+                            [
+                                79.717735,
+                                11.881425
+                            ],
+                            [
+                                79.709382,
+                                11.883695
+                            ],
+                            [
+                                79.70742,
+                                11.889141
+                            ],
+                            [
+                                79.684813,
+                                11.885956
+                            ],
+                            [
+                                79.685037,
+                                11.880963
+                            ],
+                            [
+                                79.67397,
+                                11.880662
+                            ],
+                            [
+                                79.673807,
+                                11.891588
+                            ],
+                            [
+                                79.686816,
+                                11.888868
+                            ],
+                            [
+                                79.68711,
+                                11.894507
+                            ],
+                            [
+                                79.695358,
+                                11.894798
+                            ],
+                            [
+                                79.696243,
+                                11.919177
+                            ],
+                            [
+                                79.704519,
+                                11.919119
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "MANGALAM",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 36977,
+                "VOTERS": 33353,
+                "TURNOUT": 90.2,
+                "MARGIN": 2751.0,
+                "MARGIN_PERCENTAGE": 8.2,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "DMK",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "DJEACOUMAR .C",
+                "CANDIDATE_RANK2": "SUN. KUMARAVEL",
+                "CANDIDATE_RANK3": "B. BHARATHKALAI",
+                "VOTES_RANK1": 16972.0,
+                "VOTES_RANK1_PERCENTAGE": 50,
+                "VOTES_RANK2": 14221.0,
+                "VOTES_RANK2_PERCENTAGE": 42.64,
+                "VOTES_RANK3": 838,
+                "VOTES_RANK3_PERCENTAGE": 2.51
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.627882,
+                                12.031789
+                            ],
+                            [
+                                79.651362,
+                                12.022299
+                            ],
+                            [
+                                79.642328,
+                                11.999291
+                            ],
+                            [
+                                79.635992,
+                                11.996032
+                            ],
+                            [
+                                79.639987,
+                                11.992682
+                            ],
+                            [
+                                79.636371,
+                                11.977815
+                            ],
+                            [
+                                79.648323,
+                                11.967329
+                            ],
+                            [
+                                79.647279,
+                                11.953429
+                            ],
+                            [
+                                79.64222,
+                                11.953895
+                            ],
+                            [
+                                79.642688,
+                                11.942117
+                            ],
+                            [
+                                79.647868,
+                                11.944552
+                            ],
+                            [
+                                79.645751,
+                                11.941256
+                            ],
+                            [
+                                79.628488,
+                                11.945184
+                            ],
+                            [
+                                79.628692,
+                                11.957108
+                            ],
+                            [
+                                79.62747,
+                                11.968075
+                            ],
+                            [
+                                79.61854,
+                                11.970482
+                            ],
+                            [
+                                79.624498,
+                                11.976002
+                            ],
+                            [
+                                79.62435,
+                                11.981777
+                            ],
+                            [
+                                79.617107,
+                                11.989569
+                            ],
+                            [
+                                79.623591,
+                                11.989278
+                            ],
+                            [
+                                79.626247,
+                                12.000382
+                            ],
+                            [
+                                79.618878,
+                                12.001278
+                            ],
+                            [
+                                79.62113,
+                                12.010253
+                            ],
+                            [
+                                79.620974,
+                                12.014302
+                            ],
+                            [
+                                79.629245,
+                                12.018692
+                            ],
+                            [
+                                79.627882,
+                                12.031789
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.695031,
+                                12.035558
+                            ],
+                            [
+                                79.704765,
+                                12.031985
+                            ],
+                            [
+                                79.702808,
+                                12.011071
+                            ],
+                            [
+                                79.719604,
+                                11.992169
+                            ],
+                            [
+                                79.685414,
+                                11.991621
+                            ],
+                            [
+                                79.680835,
+                                11.983345
+                            ],
+                            [
+                                79.67385,
+                                11.995053
+                            ],
+                            [
+                                79.662529,
+                                11.989499
+                            ],
+                            [
+                                79.656939,
+                                11.991564
+                            ],
+                            [
+                                79.661361,
+                                12.012296
+                            ],
+                            [
+                                79.672226,
+                                12.009695
+                            ],
+                            [
+                                79.676477,
+                                12.021573
+                            ],
+                            [
+                                79.684177,
+                                12.021704
+                            ],
+                            [
+                                79.69276,
+                                12.035293
+                            ],
+                            [
+                                79.695031,
+                                12.035558
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "MANNADIPET",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 31509,
+                "VOTERS": 28830,
+                "TURNOUT": 91.5,
+                "MARGIN": 2750.0,
+                "MARGIN_PERCENTAGE": 9.5,
+                "PARTY_RANK1": "BJP",
+                "PARTY_RANK2": "DMK",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "A. NAMASSIVAYAM",
+                "CANDIDATE_RANK2": "A. KRISHNAN @ A.K. KUMAR",
+                "CANDIDATE_RANK3": "CHITRA",
+                "VOTES_RANK1": 14939.0,
+                "VOTES_RANK1_PERCENTAGE": 51,
+                "VOTES_RANK2": 12189.0,
+                "VOTES_RANK2_PERCENTAGE": 42.28,
+                "VOTES_RANK3": 485,
+                "VOTES_RANK3_PERCENTAGE": 1.68
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.810108,
+                                11.930173
+                            ],
+                            [
+                                79.81654,
+                                11.92532
+                            ],
+                            [
+                                79.816341,
+                                11.925159
+                            ],
+                            [
+                                79.810926,
+                                11.924244
+                            ],
+                            [
+                                79.810108,
+                                11.930173
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.810987,
+                                11.930582
+                            ],
+                            [
+                                79.810064,
+                                11.93041
+                            ],
+                            [
+                                79.805188,
+                                11.931048
+                            ],
+                            [
+                                79.807564,
+                                11.935876
+                            ],
+                            [
+                                79.807925,
+                                11.938576
+                            ],
+                            [
+                                79.817657,
+                                11.934449
+                            ],
+                            [
+                                79.810987,
+                                11.930582
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "NELLITHOPE",
+                "YEAR": 2021,
+                "RES": "GEN",
+                "ELECTORS": 33019,
+                "VOTERS": 27823,
+                "TURNOUT": 84.3,
+                "MARGIN": 496.0,
+                "MARGIN_PERCENTAGE": 1.8,
+                "PARTY_RANK1": "BJP",
+                "PARTY_RANK2": "DMK",
+                "PARTY_RANK3": "MNM",
+                "CANDIDATE_RANK1": "RICHARDS JOHNKUMAR",
+                "CANDIDATE_RANK2": "V. CARTIGUEYANE",
+                "CANDIDATE_RANK3": "P MURUGESAN",
+                "VOTES_RANK1": 11757.0,
+                "VOTES_RANK1_PERCENTAGE": 42,
+                "VOTES_RANK2": 11261.0,
+                "VOTES_RANK2_PERCENTAGE": 40.47,
+                "VOTES_RANK3": 1659,
+                "VOTES_RANK3_PERCENTAGE": 5.96
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.679661,
+                                11.814511
+                            ],
+                            [
+                                79.684165,
+                                11.812691
+                            ],
+                            [
+                                79.690276,
+                                11.80539
+                            ],
+                            [
+                                79.681667,
+                                11.797015
+                            ],
+                            [
+                                79.674794,
+                                11.806697
+                            ],
+                            [
+                                79.675951,
+                                11.814312
+                            ],
+                            [
+                                79.679661,
+                                11.814511
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.653721,
+                                11.842769
+                            ],
+                            [
+                                79.661724,
+                                11.839309
+                            ],
+                            [
+                                79.659437,
+                                11.829465
+                            ],
+                            [
+                                79.671262,
+                                11.823577
+                            ],
+                            [
+                                79.671225,
+                                11.814854
+                            ],
+                            [
+                                79.646287,
+                                11.816257
+                            ],
+                            [
+                                79.640989,
+                                11.824145
+                            ],
+                            [
+                                79.647319,
+                                11.844218
+                            ],
+                            [
+                                79.653721,
+                                11.842769
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.630666,
+                                11.881209
+                            ],
+                            [
+                                79.634498,
+                                11.880979
+                            ],
+                            [
+                                79.634778,
+                                11.888769
+                            ],
+                            [
+                                79.641118,
+                                11.886606
+                            ],
+                            [
+                                79.640469,
+                                11.880585
+                            ],
+                            [
+                                79.648416,
+                                11.880314
+                            ],
+                            [
+                                79.648535,
+                                11.870468
+                            ],
+                            [
+                                79.662675,
+                                11.86722
+                            ],
+                            [
+                                79.657807,
+                                11.852645
+                            ],
+                            [
+                                79.647085,
+                                11.850048
+                            ],
+                            [
+                                79.626853,
+                                11.854278
+                            ],
+                            [
+                                79.628491,
+                                11.869791
+                            ],
+                            [
+                                79.619149,
+                                11.870149
+                            ],
+                            [
+                                79.619417,
+                                11.862668
+                            ],
+                            [
+                                79.612209,
+                                11.862583
+                            ],
+                            [
+                                79.601972,
+                                11.857803
+                            ],
+                            [
+                                79.602417,
+                                11.862158
+                            ],
+                            [
+                                79.599327,
+                                11.882945
+                            ],
+                            [
+                                79.60817,
+                                11.876873
+                            ],
+                            [
+                                79.621172,
+                                11.890558
+                            ],
+                            [
+                                79.626992,
+                                11.888963
+                            ],
+                            [
+                                79.630666,
+                                11.881209
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "NETTAPAKKAM",
+                "YEAR": 2021,
+                "RES": "SC",
+                "ELECTORS": 31736,
+                "VOTERS": 28121,
+                "TURNOUT": 88.6,
+                "MARGIN": 6638.0,
+                "MARGIN_PERCENTAGE": 23.6,
+                "PARTY_RANK1": "AINRC",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "P RAJAVELU",
+                "CANDIDATE_RANK2": "V VIZEAVENY",
+                "CANDIDATE_RANK3": "D GOVURY",
+                "VOTES_RANK1": 15978.0,
+                "VOTES_RANK1_PERCENTAGE": 56,
+                "VOTES_RANK2": 9340.0,
+                "VOTES_RANK2_PERCENTAGE": 33.21,
+                "VOTES_RANK3": 649,
+                "VOTES_RANK3_PERCENTAGE": 2.31
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.769716,
+                                11.943996
+                            ],
+                            [
+                                79.770505,
+                                11.935751
+                            ],
+                            [
+                                79.764889,
+                                11.93333
+                            ],
+                            [
+                                79.769538,
+                                11.928953
+                            ],
+                            [
+                                79.761195,
+                                11.928517
+                            ],
+                            [
+                                79.759878,
+                                11.943646
+                            ],
+                            [
+                                79.769716,
+                                11.943996
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.756181,
+                                12.004097
+                            ],
+                            [
+                                79.762379,
+                                12.002674
+                            ],
+                            [
+                                79.760363,
+                                11.989244
+                            ],
+                            [
+                                79.748113,
+                                11.984705
+                            ],
+                            [
+                                79.742796,
+                                11.977771
+                            ],
+                            [
+                                79.726439,
+                                11.985679
+                            ],
+                            [
+                                79.723546,
+                                11.977544
+                            ],
+                            [
+                                79.724469,
+                                11.971263
+                            ],
+                            [
+                                79.744518,
+                                11.964934
+                            ],
+                            [
+                                79.74912,
+                                11.929465
+                            ],
+                            [
+                                79.744127,
+                                11.929949
+                            ],
+                            [
+                                79.745007,
+                                11.920937
+                            ],
+                            [
+                                79.737492,
+                                11.917148
+                            ],
+                            [
+                                79.734636,
+                                11.911804
+                            ],
+                            [
+                                79.717481,
+                                11.928975
+                            ],
+                            [
+                                79.720847,
+                                11.944898
+                            ],
+                            [
+                                79.709621,
+                                11.94984
+                            ],
+                            [
+                                79.707963,
+                                11.944095
+                            ],
+                            [
+                                79.70122,
+                                11.951152
+                            ],
+                            [
+                                79.700064,
+                                11.962764
+                            ],
+                            [
+                                79.703394,
+                                11.967064
+                            ],
+                            [
+                                79.714985,
+                                11.967618
+                            ],
+                            [
+                                79.715971,
+                                11.971019
+                            ],
+                            [
+                                79.709266,
+                                11.975726
+                            ],
+                            [
+                                79.712369,
+                                11.986475
+                            ],
+                            [
+                                79.715842,
+                                11.984848
+                            ],
+                            [
+                                79.720552,
+                                11.992689
+                            ],
+                            [
+                                79.733389,
+                                11.993256
+                            ],
+                            [
+                                79.74756,
+                                12.007834
+                            ],
+                            [
+                                79.756181,
+                                12.004097
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "OUSSUDU",
+                "YEAR": 2021,
+                "RES": "SC",
+                "ELECTORS": 30571,
+                "VOTERS": 28947,
+                "TURNOUT": 94.7,
+                "MARGIN": 1880.0,
+                "MARGIN_PERCENTAGE": 6.5,
+                "PARTY_RANK1": "BJP",
+                "PARTY_RANK2": "INC",
+                "PARTY_RANK3": "NTK",
+                "CANDIDATE_RANK1": "AK SAI J SARAVANAN KUMAR",
+                "CANDIDATE_RANK2": "P. KARTHIKEYAN",
+                "CANDIDATE_RANK3": "GEETHA PRIYA",
+                "VOTES_RANK1": 14121.0,
+                "VOTES_RANK1_PERCENTAGE": 48,
+                "VOTES_RANK2": 12241.0,
+                "VOTES_RANK2_PERCENTAGE": 42.29,
+                "VOTES_RANK3": 740,
+                "VOTES_RANK3_PERCENTAGE": 2.56
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                79.658585,
+                                11.944572
+                            ],
+                            [
+                                79.660694,
+                                11.937079
+                            ],
+                            [
+                                79.670257,
+                                11.935515
+                            ],
+                            [
+                                79.668852,
+                                11.918414
+                            ],
+                            [
+                                79.656042,
+                                11.912897
+                            ],
+                            [
+                                79.655885,
+                                11.907938
+                            ],
+                            [
+                                79.641061,
+                                11.907675
+                            ],
+                            [
+                                79.640622,
+                                11.902196
+                            ],
+                            [
+                                79.629833,
+                                11.901584
+                            ],
+                            [
+                                79.625897,
+                                11.905916
+                            ],
+                            [
+                                79.628323,
+                                11.919576
+                            ],
+                            [
+                                79.618425,
+                                11.926087
+                            ],
+                            [
+                                79.617875,
+                                11.936051
+                            ],
+                            [
+                                79.618904,
+                                11.943224
+                            ],
+                            [
+                                79.628488,
+                                11.945184
+                            ],
+                            [
+                                79.645751,
+                                11.941256
+                            ],
+                            [
+                                79.647868,
+                                11.944552
+                            ],
+                            [
+                                79.651954,
+                                11.94359
+                            ],
+                            [
+                                79.652981,
+                                11.94822
+                            ],
+                            [
+                                79.658585,
+                                11.944572
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.696516,
+                                11.962628
+                            ],
+                            [
+                                79.700064,
+                                11.962764
+                            ],
+                            [
+                                79.70122,
+                                11.951152
+                            ],
+                            [
+                                79.707963,
+                                11.944095
+                            ],
+                            [
+                                79.711112,
+                                11.933056
+                            ],
+                            [
+                                79.697241,
+                                11.94176
+                            ],
+                            [
+                                79.691597,
+                                11.951351
+                            ],
+                            [
+                                79.696516,
+                                11.962628
+                            ]
+                        ]
+                    ],
+                    [
+                        [
+                            [
+                                79.686486,
+                                11.973207
+                            ],
+                            [
+                                79.684607,
+                                11.953355
+                            ],
+                            [
+                                79.673265,
+                                11.947859
+                            ],
+                            [
+                                79.654659,
+                                11.953453
+                            ],
+                            [
+                                79.653794,
+                                11.960602
+                            ],
+                            [
+                                79.659983,
+                                11.958358
+                            ],
+                            [
+                                79.662165,
+                                11.969087
+                            ],
+                            [
+                                79.67666,
+                                11.968094
+                            ],
+                            [
+                                79.684699,
+                                11.97308
+                            ],
+                            [
+                                79.686486,
+                                11.973207
+                            ]
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "STATE": "PUDUCHERRY",
+                "DISTRICT": "PUDUCHERRY",
+                "AC_NAME": "THIRUBHUVANAI",
+                "YEAR": 2021,
+                "RES": "SC",
+                "ELECTORS": 31814,
+                "VOTERS": 28808,
+                "TURNOUT": 90.6,
+                "MARGIN": 2359.0,
+                "MARGIN_PERCENTAGE": 8.2,
+                "PARTY_RANK1": "IND",
+                "PARTY_RANK2": "AINRC",
+                "PARTY_RANK3": "DMK",
+                "CANDIDATE_RANK1": "P. ANGALANE",
+                "CANDIDATE_RANK2": "B. KOBIGA",
+                "CANDIDATE_RANK3": "A. MUHILAN",
+                "VOTES_RANK1": 10597.0,
+                "VOTES_RANK1_PERCENTAGE": 36,
+                "VOTES_RANK2": 8238.0,
+                "VOTES_RANK2_PERCENTAGE": 28.6,
+                "VOTES_RANK3": 7644,
+                "VOTES_RANK3_PERCENTAGE": 26.53
+            }
+        }
+    ]
+}
