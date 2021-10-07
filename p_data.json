@@ -1,0 +1,639 @@
+{
+  "countrycodes": {
+    "AU": {
+      "countrycode": "AU",
+      "idn": 11,
+      "pp": 1,
+      "wroab": 16
+    },
+    "CA": {
+      "countrycode": "CA",
+      "idn": 0,
+      "pp": 0,
+      "wroab": 1
+    },
+    "FJ": {
+      "countrycode": "FJ",
+      "idn": 0,
+      "pp": 4,
+      "wroab": 0
+    },
+    "KH": {
+      "countrycode": "KH",
+      "idn": 0,
+      "pp": 8,
+      "wroab": 0
+    },
+    "KR": {
+      "countrycode": "KR",
+      "idn": 0,
+      "pp": 0,
+      "wroab": 1
+    },
+    "MM": {
+      "countrycode": "MM",
+      "idn": 0,
+      "pp": 3,
+      "wroab": 0
+    },
+    "MX": {
+      "countrycode": "MX",
+      "idn": 0,
+      "pp": 0,
+      "wroab": 1
+    },
+    "MY": {
+      "countrycode": "MY",
+      "idn": 0,
+      "pp": 0,
+      "wroab": 1
+    },
+    "NL": {
+      "countrycode": "NL",
+      "idn": 0,
+      "pp": 0,
+      "wroab": 1
+    },
+    "PG": {
+      "countrycode": "PG",
+      "idn": 0,
+      "pp": 6,
+      "wroab": 0
+    },
+    "SB": {
+      "countrycode": "SB",
+      "idn": 0,
+      "pp": 3,
+      "wroab": 0
+    },
+    "TH": {
+      "countrycode": "TH",
+      "idn": 0,
+      "pp": 3,
+      "wroab": 0
+    },
+    "TL": {
+      "countrycode": "TL",
+      "idn": 0,
+      "pp": 4,
+      "wroab": 0
+    },
+    "US": {
+      "countrycode": "US",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "SA": {
+      "countrycode": "SA",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "IE": {
+      "countrycode": "IE",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "BT": {
+      "countrycode": "BT",
+      "idn": 1,
+      "pp": 0,
+      "wroab": 5
+    },
+    "UK": {
+      "countrycode": "UK",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "SG": {
+      "countrycode": "SG",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "AE": {
+      "countrycode": "AE",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "FR": {
+      "countrycode": "FR",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "RU": {
+      "countrycode": "RU",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "BE": {
+      "countrycode": "BE",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "RO": {
+      "countrycode": "RO",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "PT": {
+      "countrycode": "PT",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "SE": {
+      "countrycode": "SE",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "LU": {
+      "countrycode": "LU",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "ES": {
+      "countrycode": "ES",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "DE": {
+      "countrycode": "DE",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "CN": {
+      "countrycode": "CN",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "TW": {
+      "countrycode": "TW",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    },
+    "MU": {
+      "countrycode": "MU",
+      "idn": 2,
+      "pp": 0,
+      "wroab": 5
+    }
+    
+  },
+  "locations": [	{
+    "address": "USA",
+    "count": 0,
+    "countrycode": "US",
+    "idn": [],
+    "lat": 37.0902,
+    "lon": -95.7129,
+    "pp": [],
+    "wroab": [{
+      "address": "USA",
+      "category": "wroab",
+      "description": " 440 oxygen cylinders and regulators,  960,000 Rapid Diagnostic Tests & 100,000 N95 masks",
+      "lat": 37.0902,
+      "lon": -95.7129,
+      "name": "440 oxygen cylinders and regulators - 30-4-2021",
+      "number_in_network": "International",
+      "state": "USA",
+      "website": "https://www.usaid.gov/news-information/press-releases/apr-28-2021-united-states-airlifts-emergency-supplies-to-help-india-address-deadly-second-wave-of-covid-19-pandemic"
+    }]
+  },{
+    "address": "Saudi Arabia",
+    "count": 0,
+    "countrycode": "SA",
+    "idn": [],
+    "lat": 23.8859,
+    "lon": 45.0792,
+    "pp": [],
+    "wroab": [{
+      "address": "Saudi Arabia",
+      "category": "wroab",
+      "description": "Saudi Arabia sends oxygen to India amid hospital shortage, surge in COVID-19 cases ",
+      "lat": 23.8859,
+    "lon": 45.0792,
+      "name": "80 Mt Liquid Oxygen - 26-4-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://english.alarabiya.net/coronavirus/2021/04/26/Saudi-Arabia-sends-oxygen-to-India-amid-hospital-shortage-surge-in-COVID-19-cases-"
+    }]
+  
+  },{
+    "address": "Ireland",
+    "count": 0,
+    "countrycode": "IE",
+    "idn": [],
+    "lat": 53.1424,
+    "lon": -7.6921,
+    "pp": [],
+    "wroab": [{
+      "address": "Ireland",
+      "category": "wroab",
+      "description": "700 Oxygen Concentrators,<br>- 2 oxygen generators (Phase- 1), <br>- 548 oxygen concentrators, <br>-365 ventilators, <br>-60 mask ventilators",
+      "lat": 53.1424,
+      "lon": 7.6921,
+      "name": "700 Oxygen Concentrators",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://twitter.com/IrlEmbIndia/status/1386704545212997639/photo/1"
+    }]
+  
+  },{
+    "address": "Bhutan",
+    "count": 0,
+    "countrycode": "BT",
+    "idn": [],
+    "lat": 27.5142,
+    "lon": 90.4336,
+    "pp": [],
+    "wroab": [{
+      "address": "Bhutan",
+      "category": "wroab",
+      "description": "No updates",
+      "lat": 27.5142,
+      "lon": 90.4336,
+      "name": "40 MT Everyday",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://twitter.com/timesofindia/status/1387056198701129731/photo/1"
+    }]
+  
+  },{
+    "address": "United Kingdom",
+    "count": 0,
+    "countrycode": "UK",
+    "idn": [],
+    "lat": 55.3781,
+    "lon": -3.4360,
+    "pp": [],
+    "wroab": [{
+      "address": "United Kingdom",
+      "category": "wroab",
+      "description": "495 oxygen concentrators, 120 non-invasive ventilators and 20 manual ventilators",
+      "lat": 55.3781,
+    "lon": 3.4360,
+      "name": "495 oxygen concentrators - 27th-30th/04/2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://twitter.com/ANI/status/1386345827069689856 https://twitter.com/CNBCTV18News/status/1387606998863147008"
+    }]
+  
+  },{
+    "address": "Singapore",
+    "count": 0,
+    "countrycode": "SG",
+    "idn": [],
+    "lat":1.3521,
+    "lon": 103.8198,
+    "pp": [],
+    "wroab": [{
+      "address": "Singapore",
+      "category": "wroab",
+      "description": "256 Cylinders & four cryogenic oxygen tanks",
+      "lat": 1.3521,
+    "lon": 103.8198,
+      "name": "256 Cylinders & four cryogenic oxygen - 28-4-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://www.straitstimes.com/singapore/politics/singapore-sends-two-planeloads-of-oxygen-cylinders-to-india-to-aid-its-pandemic"
+    }]
+  
+  },{
+    "address": "UAE",
+    "count": 0,
+    "countrycode": "AE",
+    "idn": [],
+    "lat":23.4241,
+    "lon": 53.8478,
+    "pp": [],
+    "wroab": [{
+      "address": "UAE",
+      "category": "wroab",
+      "description": "6 cryogenic oxygen storage containers/ 7 metric tons of medical supplies",
+      "lat":23.4241,
+      "lon": 53.8478,
+      "name": "6 cryogenic oxygen storage containers- 02-5-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://www.khaleejtimes.com/coronavirus-pandemic/covid-19-uae-offers-all-resources-to-support-indias-fight"
+    }]
+  
+  },{
+    "address": "France",
+    "count": 0,
+    "countrycode": "FR",
+    "idn": [],
+    "lat":46.2276,
+    "lon": 2.2137,
+    "pp": [],
+    "wroab": [{
+      "address": "France",
+      "category": "wroab",
+      "description": "8 medical oxygen generators, 28 ventilators and their consumables, as well as 200 electric syringe pumps.",
+      "lat":46.2276,
+      "lon": 2.2137,
+      "name": "8 medical oxygen generators - 02-5-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://in.ambafrance.org/France-Stands-with-India-Phase-1-of-the-French-Covid-19-Solidarity-Missiong"
+    }]
+  
+  },{
+    "address": "Russia",
+    "count":0,
+    "countrycode": "RU",
+    "idn": [],
+    "lat":61.5240,
+    "lon": 105.3188,
+    "pp": [],
+    "wroab": [{
+      "address": "Russia",
+      "category": "wroab",
+      "description": "22 tonnes necessary equipment- such as 20 oxygen production units, 75 lung ventilators, 150 medical monitors and 200,000 packs of medicine. 850 million doses of Sputnik V, production by May",
+      "lat":61.5240,
+    "lon": 105.3188,
+      "name": "22 tonnes necessary equipment",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "http://en.kremlin.ru/events/president/news/65465"
+    },{
+      "address": "Russia",
+      "category": "wroab",
+      "description": "1.5 lakh doses of Sputnik-V vaccine",
+      "lat":61.5240,
+    "lon": 105.3188,
+      "name": "1.5 lakh doses of Sputnik-V vaccine",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://twitter.com/MEAIndia/status/1388460210621063175"
+    }]
+  
+  },{
+    "address": "Belgium",
+    "count": 0,
+    "countrycode": "BE",
+    "idn": [],
+    "lat":50.5039,
+    "lon": 4.4699,
+    "pp": [],
+    "wroab": [{
+      "address": "Belgium",
+      "category": "wroab",
+      "description": "9000 vials of Remdesivir",
+      "lat":50.5039,
+      "lon": 4.4699,
+      "name": "9000 vials of Remdesivir - 2-5-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://twitter.com/BelgiuminIndia/status/1387351866934063107"
+    }]
+  
+  },
+  {
+    "address": "Romania",
+    "count": 0,
+    "countrycode": "RO",
+    "idn": [],
+    "lat":45.9432,
+    "lon": 24.9668,
+    "pp": [],
+    "wroab": [{
+      "address": "Romania",
+      "category": "wroab",
+      "description": "80 oxygen concentrators and 75 oxygen cylinders",
+      "lat":45.9432,
+      "lon": 24.9668,
+      "name": "80 oxygen concentrators - 30-4-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://www.hindustantimes.com/india-news/from-us-to-germany-list-of-countries-that-have-sent-covid-aid-to-india-so-far-101619921762343.html"
+    }]
+  
+  },
+  {
+    "address": "Portugal",
+    "count": 0,
+    "countrycode": "PT",
+    "idn": [],
+    "lat":39.3999,
+    "lon": -8.2245,
+    "pp": [],
+    "wroab": [{
+      "address": "Portugal",
+      "category": "wroab",
+      "description": "5,503 vials of Remdesivir; 20,000 litres of oxygen per week",
+      "lat":39.3999,
+    "lon": -8.2245,
+      "name": "5,503 vials of Remdesivir",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://ec.europa.eu/commission/presscorner/detail/en/ip_21_1986"
+    }]
+  
+  },
+  {
+    "address": "Sweden",
+    "count": 0,
+    "countrycode": "SE",
+    "idn": [],
+    "lat":60.1282,
+    "lon": 15.6435,
+    "pp": [],
+    "wroab": [{
+      "address": "Sweden",
+      "category": "wroab",
+      "description": "120 ventilators",
+      "lat":60.1282,
+    "lon": 15.62435,
+      "name": "120 ventilators",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://ec.europa.eu/commission/presscorner/detail/en/ip_21_19866"
+    }]
+  
+  },
+  {
+    "address": "Luxembourg",
+    "count": 0,
+    "countrycode": "LU",
+    "idn": [],
+    "lat":49.8153,
+    "lon": 6.1296,
+    "pp": [],
+    "wroab": [{
+      "address": "Luxembourg",
+      "category": "wroab",
+      "description": " 58 ventilators",
+      "lat":49.8153,
+      "lon": 6.1296,
+      "name": " 58 ventilators",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://ec.europa.eu/commission/presscorner/detail/en/ip_21_1986"
+    }]
+  
+  },
+  {
+    "address": "Czech Republic",
+    "count": 0,
+    "countrycode": "CZ",
+    "idn": [],
+    "lat":49.8175,
+    "lon": 15.4730,
+    "pp": [],
+    "wroab": [{
+      "address": "Czech Republic",
+      "category": "wroab",
+      "description": "500 oxygen cylinders",
+      "lat":49.8175,
+    "lon": 15.4730,
+      "name": "500 oxygen cylinders",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://twitter.com/CZinIndia/status/1387355482008952835"
+    }]
+  
+  },
+  {
+    "address": "Spain",
+    "count": 0,
+    "countrycode": "ES",
+    "idn": [],
+    "lat":40.4637,
+    "lon": -3.7492,
+    "pp": [],
+    "wroab": [{
+      "address": "Spain",
+      "category": "wroab",
+      "description": "NA",
+      "lat":40.4637,
+    "lon": -3.7492,
+      "name": "NA",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://twitter.com/EmbEspIndia/status/1387314776120848387"
+    }]
+  
+  },
+  {
+    "address": "Germany",
+    "count": 0,
+    "countrycode": "DE",
+    "idn": [],
+    "lat":51.1657,
+    "lon": 10.4515,
+    "pp": [],
+    "wroab": [{
+      "address": "Germany",
+      "category": "wroab",
+      "description": "120 ventilators+ 13 experts",
+      "lat":51.1657,
+    "lon": 10.4515,
+      "name": "120 ventilators+ 13 experts - 01-5-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://www.dw.com/en/coronavirus-german-military-plane-reaches-india-with-medical-aid/a-57397635"
+    }]
+  
+  },
+  {
+    "address": "Australia",
+    "count": 0,
+    "countrycode": "AU",
+    "idn": [],
+    "lat":-25.2744,
+    "lon":133.7751,
+    "pp": [],
+    "wroab": [{
+      "address": "Australia",
+      "category": "wroab",
+      "description": "NA",
+      "lat":-25.2744,
+      "lon":133.7751,
+      "name": "NA",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://timesofindia.indiatimes.com/india/covid-19-australia-to-send-oxygen-ventilators-ppe-kits-to-india/articleshow/82255687.cms?utm_source=twitter.com&utm_medium=social&"
+    }]
+  
+  },
+  {
+    "address": "China",
+    "count": 0,
+    "countrycode": "CN",
+    "idn": [],
+    "lat":35.8617,
+    "lon":104.1954,
+    "pp": [],
+    "wroab": [{
+      "address": "China",
+      "category": "wroab",
+      "description": "NA",
+      "lat":35.8617,
+    "lon":104.1954,
+      "name": "NA",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "#"
+    }]
+  
+  },
+  {
+    "address": "Taiwan",
+    "count": 0,
+    "countrycode": "TW",
+    "idn": [],
+    "lat":23.6978,
+    "lon":120.9605,
+    "pp": [],
+    "wroab": [{
+      "address": "Taiwan",
+      "category": "wroab",
+      "description": "50 oxygen concentrators and 500 oxygen cylinders",
+      "lat":23.6978,
+    "lon":120.9605,
+      "name": "50 oxygen concentrators - 2-5-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://www.thehindu.com/news/national/india-receives-aid-from-taiwan-places-commercial-orders-with-china/article34464800.ece"
+    }]
+  
+  },
+  {
+    "address": "Mauritius",
+    "count": 0,
+    "countrycode": "MU",
+    "idn": [],
+    "lat":-20.3484,
+    "lon":57.5522,
+    "pp": [],
+    "wroab": [{
+      "address": "Mauritius",
+      "category": "wroab",
+      "description": "200 Oxygen Concentrators",
+      "lat":-20.3484,
+      "lon":57.5522,
+      "name": "200 Oxygen Concentrators - 28-4-2021",
+      "number_in_network": "International",
+      "state": "na",
+      "website": "https://twitter.com/Geeta_Mohan/status/1388118614155223043"
+    }]
+  
+  }
+		   ]
+}
